@@ -1,0 +1,2 @@
+All documentation of the project code should be here.
+Using Sphinx the documentaion can be self-generated and automated so it is always recent.
