@@ -1,0 +1,3 @@
+Place all Raw data here.
+If data is sourced from the cloud or from databases please include all necessary information in the project documentation 
+and include scripts used to extract data her as well.
