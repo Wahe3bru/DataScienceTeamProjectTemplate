@@ -1,3 +1,4 @@
 Place all Raw data here.
+The raw (unmodified) data should be stored here. This data is immutable so that when scripts are run we get the same out come i.e. reproducibility.
 If data is sourced from the cloud or from databases please include all necessary information in the project documentation 
 and include scripts used to extract data her as well.
