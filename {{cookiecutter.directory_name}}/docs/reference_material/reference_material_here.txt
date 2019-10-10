@@ -1,0 +1,2 @@
+All documentation, links and other supporting material that assisted team members throughout the project should be placed here. 
+It can assist later team members get up to speed, or as reminders when the project gets picked months later.
