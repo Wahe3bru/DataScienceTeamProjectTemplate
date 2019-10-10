@@ -6,8 +6,11 @@ make_dataset.py - script used to obtain dataset via db, web, api, etc.
 build_features.py - script to turn raw data into features
                   - save final data into data/02-processed
 
-visualizations.py -
+visualizations.py - methods used to create plots.
+                  - ensures consistancy in style and format (can be customized to company aesthetics)
 
-train_model.py -
+train_model.py - script used to train the model
+               - can include methods used to improve model and model selection.
 
-predict_model.py -
+predict_model.py - script will be the basis for putting model into production
+                 - include pipeline transforming inputs into standard model input
