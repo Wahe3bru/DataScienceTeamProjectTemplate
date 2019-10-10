@@ -1,5 +1,7 @@
-# DSprojectTemplate
-cookiecutter project structure template
+# DataScienceTeamProjectTemplate
+a cookiecutter project structure template
+This template is used to standarise the project structure of the data science team to ensure reproducibility, consistency and a systematic workflow that could assist newer team members get up and running as soon as possible.
+This structure was designed with a smaller team in mind working on small to medium size projects. The template is a guide to a consistant structure that is only minimally modified to mold to unique projects.
 
 ### Getting started
 ##### _requirements:_
