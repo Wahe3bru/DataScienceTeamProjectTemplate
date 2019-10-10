@@ -4,5 +4,5 @@
   "project_code": "LSA-DS-{{ cookiecutter.project_name }}",
   "description": "A short description of the project.",
   "project_lead": "Waheeb Agherdien",
-  "lead_email": "Waheeb.Agherdien@za.Logicalis.com"
+  "lead_email": "Waheeb.Agherdien@gmail.com"
 }
