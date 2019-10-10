@@ -1,0 +1,2 @@
+The intermediate phase of data should be kept here.
+ie copy of raw data being processed including data wrangling, cleaning, feature engineering, combining with other sources.
