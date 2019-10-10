@@ -1,0 +1,13 @@
+## This folder is used for refactored scripts.
+
+make_dataset.py - script used to obtain dataset via db, web, api, etc.
+                - save data in data/00-raw 
+
+build_features.py - script to turn raw data into features
+                  - save final data into data/02-processed
+
+visualizations.py -
+
+train_model.py -
+
+predict_model.py -
