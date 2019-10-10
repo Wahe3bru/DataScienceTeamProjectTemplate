@@ -27,7 +27,7 @@ change to your projects directory, then run cookiecutter followed by the path to
 $ cd work/projects
 $ cookiecutter path/to/LSA_DS_project_template.zip
 # or using github url
-$ cookiecutter https://github.com/Wahe3bru/project_template.git
+$ cookiecutter https://github.com/Wahe3bru/DSprojectTemplate.git 
 ```
 
 ### Initializing project template
@@ -39,7 +39,7 @@ __directory_name__: will default to the project name provided,  <br>
 __project_code__: default="LSA-DS-{project_name}",  <br>
 __description__: "Enter a short description of the project.",  <br>
 __project_lead__: default="Waheeb Agherdien",  <br>
-__lead_email__: default="Waheeb.Agherdien@za.Logicalis.com"  <br>
+__lead_email__: default="Waheeb.Agherdien@gmail.com"  <br>
 <br>
 
 ##### Project structure
