@@ -43,7 +43,7 @@ __directory_name__: will default to the project name provided,  <br>
 __project_code__: default="LSA-DS-{project_name}",  <br>
 __description__: "Enter a short description of the project.",  <br>
 __project_lead__: default="Waheeb Agherdien",  <br>
-__lead_email__: default="Waheeb.Agherdien@za.Logicalis.com"  <br>
+__lead_email__: default="Waheeb.Agherdien@gmail.com"  <br>
 <br>
 
 ##### Project structure
